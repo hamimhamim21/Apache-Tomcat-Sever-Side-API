@@ -1,0 +1,7 @@
+On a Mac
+
+javac -cp ".:../lib/*" *.java
+
+On a Windows box
+
+javac -cp ".;..\lib\*" *.java
